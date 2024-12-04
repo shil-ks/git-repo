@@ -74,8 +74,6 @@ Accuracy: Percentage of correct predictions out of total predictions.
 AUC (Area Under Curve): Measures the ability of the model to distinguish between classes.
 Classification Report: Includes precision, recall, and F1-score for detailed analysis.
 
-![Metrics Evaluation Summary](https://github.com/shil-ks/git-repo/blob/main/images/Metrics%20Evaluation%20Summary.png)
-
 Upon evaluting all these metrices, decided that Logistic Regression is the most consistent and interpretable model for this dataset, given its balance of high accuracy of 91.39% and reasonable AUC. Therefore, I used Logistic Regression Model to make predictions on test data.
 
 # Deployment
@@ -91,7 +89,7 @@ This project is licensed under the [MIT License](https://github.com/shil-ks/git-
 
 # Acknowledgements
 This project is used for Introduction to Data Analysis by Prof. Ziyad Mohamed at Durham College
-Kaggle for providing the dataset
+Kaggle for providing the dataset.
 
 
 
