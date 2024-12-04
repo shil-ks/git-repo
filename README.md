@@ -85,7 +85,7 @@ Shilpa Kumaraswamy
 Email ID - shilpak2705@gmail.com
 
 # License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the [MIT License](https://github.com/shil-ks/git-repo/blob/main/LICENSE). See the LICENSE file for details
 
 # Acknowledgements
 This project is used for Introduction to Data Analysis by Prof. Ziyad Mohamed at Durham College
