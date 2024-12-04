@@ -10,4 +10,5 @@ To run this project, you need:
 ### Installing
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/heartdisease-prediction.git
+   https://github.com/shil-ks/git-repo.git
+   
