@@ -25,7 +25,7 @@ For this project I used Jupyter environment to write, debug and run Python code 
 - Install the libraries using pip.
 - Place the dataset file (heart_disease.csv) in the project directory.
 - Use an IDE to run the Python script.
-- 
+
 ### Steps to follow
 1. Clone the repository: In Gitbash terminal write git clone and paste the repository link
    git clone https://github.com/shil-ks/git-repo.git
